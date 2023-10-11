@@ -25,4 +25,4 @@
 
 <a href="https://discord.com/users/1073115194529677332"><img align="right" src="https://lanyard-profile-readme-nyria.vercel.app/api/1073115194529677332"/></a>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31of7fgpuewr4vvkzq3qes5zr5bm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31of7fgpuewr4vvkzq3qes5zr5bm&redirect=true)
