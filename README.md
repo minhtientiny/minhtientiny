@@ -20,3 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhtientiny&show_icons=true&locale=en" alt="minhtientiny" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhtientiny&" alt="minhtientiny" /></p>
+
+### My status:
+
+<a href="https://discord.com/users/1073115194529677332"><img align="right" src="https://lanyard-profile-readme-nyria.vercel.app/api/1073115194529677332"/></a>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=5sgrqedc5b5g0w9wt09lpgqyd&redirect=true)
