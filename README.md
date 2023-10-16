@@ -1,5 +1,5 @@
 
-![Header](https://raw.githubusercontent.com/minhtientiny/minhtientiny/main/20231009_163946.png)
+![Header](https://raw.githubusercontent.com/minhtientiny/minhtientiny/main/20231017_061526.png)
 <h1 align="center">Hi 👋, I'm Nguyen Minh Tien</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtientiny&label=Profile%20views&color=0e75b6&style=flat" alt="minhtientiny" /> </p>
 - 🔭 I’m currently working on [NDC HUB & TEAM TINY]
