@@ -2,7 +2,7 @@
 ![Header](https://raw.githubusercontent.com/minhtientiny/minhtientiny/main/20231017_061526.png)
 <h1 align="center">Hi 👋, I'm Nguyen Minh Tien</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtientiny&label=Profile%20views&color=0e75b6&style=flat" alt="minhtientiny" /> </p>
-- 🔭 I’m currently working on [NDC HUB & TEAM TINY]
+- 🔭 I’m currently working on [HEBI HUB & TEAM TINY]
 <img align="right" alt="coding" height="200" width="600" src="https://pfps.gg/assets/banners/1996-zero-two.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
