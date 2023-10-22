@@ -1,6 +1,6 @@
 
 ![Header](https://raw.githubusercontent.com/minhtientiny/minhtientiny/main/20231017_061526.png)
-<h1 align="center">Hi 👋, I'm Nguyen Minh Tien</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello+World+!;i'm+Nguyen+Minh+Tien.;I'm+Developer%2C+Coder%2C+Modder%2C+Game+Dev%2C+Designer.;I'm+From+Viet+Nam+!" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtientiny&label=Profile%20views&color=0e75b6&style=flat" alt="minhtientiny" /> </p>
 - 🔭 I’m currently working on [HEBI HUB & TEAM TINY]
 <img align="right" alt="coding" height="200" width="600" src="https://pfps.gg/assets/banners/1996-zero-two.gif">
