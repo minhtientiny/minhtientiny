@@ -1,7 +1,7 @@
 
-![Header](https://raw.githubusercontent.com/minhtientiny/minhtientiny/main/20231017_061526.png)
+![Header](////)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=true&width=600&height=100&lines=Hello+World+!;i'm+Nguyen+Minh+Tien.;I'm+Developer%2C+Coder%2C+Modder%2C+Game+Dev%2C+Designer.;I'm+From+Viet+Nam+!" alt="Typing SVG" /></a><p align="left"> <img src="https://komarev.com/ghpvc/?username=minhtientiny&label=Profile%20views&color=0e75b6&style=flat" alt="minhtientiny" /> </p>
-- 🔭 I’m currently working on [HEBI HUB & TEAM TINY]
+- 🔭 I’m currently working on [MT Joker & TEAM TINY]
 <img align="right" alt="coding" height="200" width="600" src="https://pfps.gg/assets/banners/1996-zero-two.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
